@@ -103,5 +103,6 @@
  .card {
    margin: 0 auto;
    width: 500px;
+   todo
  }
 </style>
